@@ -73,9 +73,7 @@ html, body
 		text-align:center;
 		padding:32em 0em 23em 0em;
 		color:#ffffff;
-		background: #111111 url
-
-(https://cloud.githubusercontent.com/assets/8046107/3455368/07ed534a-01e0-11e4-95b0-354055f3339d.jpg) no-repeat center;
+		background: #111111 url(https://cloud.githubusercontent.com/assets/8046107/3455368/07ed534a-01e0-11e4-95b0-354055f3339d.jpg) no-repeat center;
 		background-size: cover;
 	}
 
