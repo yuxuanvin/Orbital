@@ -81,9 +81,8 @@
 
 	.name h1
 	{
-		position:absolute;
-		bottom:24.5em;
-		left:17em;
+		margin-left:auto;
+		margin-right:auto;
 		color:#000000;
 		border:3px solid #cc0000;
 		padding: 0em 1em 0em 1em;
