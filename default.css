@@ -148,6 +148,8 @@
 	#banner
 	{
 		text-align: center;
+			margin-left: auto;
+		margin-right: auto;
 	}
 	
 	#banner .input
@@ -156,8 +158,7 @@
 		font-size:1em;
 		left:21em;
 		top:40em;
-		margin-left: auto;
-		margin-right: auto;
+	
 	}
 
 	#banner .input p
