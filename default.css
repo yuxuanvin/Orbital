@@ -66,7 +66,14 @@
 		background: #FFF;
 	}
 
-	#header 
+	#header	
+	{
+		text-align: center;
+		margin-left: auto;
+		margin-right: auto;	
+	}
+	
+	.name 
 	{	
 		text-align: center;
 		margin-left: auto;
@@ -76,7 +83,7 @@
 		background-size: cover;
 	}
 
-	#header .name h1
+	.name h1
 	{
 		text-align:center;
 		margin-left:auto;
